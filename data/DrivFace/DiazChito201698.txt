@@ -1,0 +1,3 @@
+Katerine Diaz-Chito, Aura Hernández-Sabaté, Antonio M. López, A reduced feature set for driver head pose estimation, Applied Soft Computing, Volume 45, August 2016, Pages 98-107, ISSN 1568-4946, http://dx.doi.org/10.1016/j.asoc.2016.04.027.
+(http://www.sciencedirect.com/science/article/pii/S1568494616301752)
+Keywords: Head pose estimation; Driving performance evaluation; Subspace based methods; Linear regression
